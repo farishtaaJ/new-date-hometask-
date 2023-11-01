@@ -145,14 +145,6 @@ function isValidDate (day, month, year)
 }
 console.log(isValidDate(35,2,2020));
 
-
-//task 12 
-function convertDate (arr)
-{
-  
-}
-console.log(convertDate("1/9/2019"));
-
 // task 13
 function polidromicDate (date)
 {
